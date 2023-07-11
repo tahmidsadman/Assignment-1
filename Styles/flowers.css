@@ -68,8 +68,7 @@ body {
     flex-direction: column;
     flex-shrink: 0;
     text-align: center;
-    margin-left: 600px;
-    margin-right: 600px;
+    margin-left: 650px;
 }
 
 .font-size {
@@ -93,7 +92,7 @@ body {
 .threeflowers {
     display: flex;
     gap: 24px;
-    margin-left: 400px;
+    margin-left: 455px;
     margin-top: 120px;
 }
 
@@ -308,4 +307,10 @@ body {
     text-align: center;
     padding-top: 50px;
     margin-top: 100px;
+}
+
+#copyright{
+    color: #e55473;
+    text-align: center;
+    padding-top: 140px;
 }
