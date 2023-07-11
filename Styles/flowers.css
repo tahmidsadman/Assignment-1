@@ -8,7 +8,7 @@ body {
 
 .head {
     display: flex;
-    background-color: violet;
+    background-color: rgb(252, 223, 198);
     width: 1920px;
     height: 600px;
     flex-shrink: 0;
@@ -313,4 +313,17 @@ body {
     color: #e55473;
     text-align: center;
     padding-top: 140px;
+}
+
+.delivery{
+    background-image: url(../flower-asset/flowerdelivery2.jpg);
+    height: 1050px;
+    width: 1400px;
+    margin-left: 160px;
+
+}
+.delivery-text{
+    padding-top: 510px;
+    padding-left: 680px;
+    font-size:x-large;
 }
